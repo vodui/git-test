@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("hello git!33");
         System.out.println("hello git!444");
         System.out.println("hello git!555");
+        System.out.println("push git 66666!");
+
     }
 }
